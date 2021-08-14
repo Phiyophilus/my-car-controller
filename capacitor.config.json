@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "my-car-controller",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my-car-controller",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
